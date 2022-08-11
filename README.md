@@ -1,5 +1,5 @@
-## Oi eu sou Victor Paixão
-
+# Sobre mim
+- Olá, meu nome é Victor Paixão
 - Não trabalho atualmente.
 - Entrar contato pelo perfil.
 - Gosto de viajar, jogar futebol com amigos e jogar videogames.
