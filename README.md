@@ -1,4 +1,4 @@
-## Oiii eu sou Victor Paixão
+## Oi eu sou Victor Paixão
 
 Não trabalho atualmente.
 
