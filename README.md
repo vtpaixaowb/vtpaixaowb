@@ -1,6 +1,5 @@
 # Sobre mim
 - 👋 Olá meu nome é **@vtpaixaowb**
-- :+1: Meu email de contato é [email](victor.paixao@escola.pr.gov.br)
 - :+1: Meu email de contato é victor.paixao@escola.pr.gov.br
 - 👀Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
